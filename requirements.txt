@@ -8,3 +8,4 @@ pymongo
 streamlit-aggrid
 pillow
 python-dotenv
+opencv
