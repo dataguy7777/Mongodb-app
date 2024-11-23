@@ -1,1 +1,10 @@
+# requirements.txt
+
 streamlit
+pytesseract
+opencv-python
+pandas
+pymongo
+streamlit-aggrid
+pillow
+python-dotenv
